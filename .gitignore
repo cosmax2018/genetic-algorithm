@@ -1,0 +1,3 @@
+# dirs da ignorare:
+__pycache__/
+bak/
